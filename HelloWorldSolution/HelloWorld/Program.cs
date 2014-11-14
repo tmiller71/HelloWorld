@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("Hello World!\n\nPress any key to continue...");
             Console.WriteLine("Edit in master");
             Console.WriteLine("Branch test");
+            Console.WriteLine("Branch test2");
             Console.ReadLine();
         }
     }
