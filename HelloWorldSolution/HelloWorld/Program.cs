@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!\n\nPress any key to continue...");
+            Console.WriteLine("Branch test");
             Console.ReadLine();
         }
     }
