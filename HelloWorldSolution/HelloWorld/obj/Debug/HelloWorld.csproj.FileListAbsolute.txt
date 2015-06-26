@@ -1,2 +1,3 @@
 C:\Users\millertr\Documents\Visual Studio 2013\Projects\HelloWorld\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\Projects\HelloWorldTest\testbranch\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Projects\HelloWorldTest\feature1\HelloWorldSolution\HelloWorld\bin\Debug\HelloWorld.exe.config

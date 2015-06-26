@@ -16,6 +16,7 @@ namespace HelloWorld
             Console.WriteLine("Branch test2");
             Console.WriteLine("Change made in testbranch");
             Console.WriteLine("Another change made in testbranch");
+            Console.WriteLine("Another change made in testbranch 1");
             Console.ReadLine();
         }
     }
