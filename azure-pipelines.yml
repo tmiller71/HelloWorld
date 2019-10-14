@@ -43,7 +43,7 @@ steps:
       PersonalAccessTokenSecret: 'MHFQQFoyaGc2SHluYk8vSGddTktZWjJ4RTRzSXJq0'
       TenantID: 'SI1'
       EntitlementPreference: '3'
-      PurchaseEntitlements: 'true'
       InProgressScanActionType: '0'
       RemediationScanPreference: '0'
-      PolicyFailAction: '0'
+      PolicyFailAction: '0'      
+      PurchaseEntitlements: true
