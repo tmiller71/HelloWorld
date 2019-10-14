@@ -47,3 +47,11 @@ steps:
       InProgressScanActionType: '0'
       RemediationScanPreference: '0'
       PolicyFailAction: '0'
+- task: TroyTask1@6
+  inputs:
+    FortifyProjects: 'asdf'
+    BSIToken: 'asdf'
+    APIAuthenticationType: '1'
+    APIKey: 'fgv'
+    APISecret: 'sdfg'
+    EntitlementPreference: '2'
